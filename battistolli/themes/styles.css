@@ -1,0 +1,170 @@
+.sidebar {
+    background-color: #2c2e3d !important;
+}
+
+body .sidebar .p-accordion .p-accordion-header .p-accordion-header-link {
+    background-color: #2c2e3d !important;
+}
+
+.p-button {
+    background-color: rgba(0, 122, 255, 1) !important;
+    color: #FFF !important;
+    border-color: rgba(0, 122, 255, 1) !important;
+}
+
+.p-button.p-button-success {
+  color: #FFFFFF !important;
+  background-color: #0d89ec !important;
+  border: 1px solid #0d89ec !important;
+}
+
+.p-button .p-button-label {
+    color: #FFF !important;
+}
+
+.p-button .p-button-icon {
+    color: #FFF !important;
+}
+
+body .wrapper .filter-wrapper .btn-filter {
+    background-color: #2c2e3d !important;
+}
+
+body .wrapper .filter-wrapper .tags-wrapper .tag-item {
+    background-color: rgba(0, 122, 255, 1) !important;
+    color: #FFFFFF;
+}
+
+body .wrapper .menu-item-wrapper .p-card {
+    position: relative;
+    border: 1px solid #dee5e7;
+}
+
+body .wrapper .menu-item-wrapper .p-card:hover {
+    position: relative;
+    border: 1px solid rgba(0, 122, 255, 1) !important;
+}
+
+.p-button.p-button-secondary {
+    color: #FFFFFF !important;
+    background-color: #252526 !important;
+    border-color: #252526 !important;
+}
+
+body .sidebar .p-accordion .p-accordion-header a .p-accordion-toggle-icon,
+body .sidebar .p-accordion .p-accordion-header a .p-accordion-header-text {
+    color: #FFFFFF !important;
+}
+
+body .sidebar .p-inputtext {
+    border-radius: 6px !important;
+}
+
+body .sidebar .p-accordion .p-accordion-header a .p-accordion-header-text {
+    color: #FFFFFF !important;
+    width: 90% !important;
+}
+
+body .search-wrapper {
+    background-color: #2c2e3d !important;
+}
+
+body .wrapper .menu-item-wrapper .p-card:hover .menu-item-icon i {
+    background: rgba(0, 122, 255, 1) !important;
+}
+
+body .sidebar .p-accordion .p-accordion-header:not(.p-disabled).p-highlight .p-accordion-header-link {
+    background: rgba(0, 122, 255, 1) !important;
+    border-color: rgba(0, 122, 255, 1) !important;
+    color: #FFFFFF !important;
+    border-radius: 6px !important;
+}
+
+body .sidebar .p-accordion {
+    background-color: #2c2e3d !important;
+    margin-top: 40px;
+}
+
+body .sidebar .p-accordion .p-accordion-content .submenu-wrapper .icon {
+    color: #FFFFFF !important;
+}
+
+body .sidebar .p-accordion .p-accordion-header .p-accordion-header-link:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    border-radius: 6px !important;
+}
+
+body .sidebar .p-accordion .p-accordion-content .submenu-wrapper .icon i {
+    font-size: 14px !important;
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    margin-top: 0px;
+}
+
+.p-button.p-button-home {
+    border: 0px !important;
+    background-color: #2c2e3d !important;
+    margin-right: 10px;
+    color: #252526 !important;
+    height: 33px !important;
+    width: 33px !important;
+}
+
+body .sidebar .p-accordion .p-accordion-content .submenu-wrapper:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    border-radius: 6px !important;
+}
+
+body .sidebar .p-accordion .p-accordion-content .submenu-wrapper a {
+    color: #FFFFFF !important;
+}
+
+body .sidebar .p-accordion .p-accordion-content {
+    border: 0px solid #c8c8c8 !important;
+    background-color: transparent !important;
+    color: #FFFFFF !important;
+    padding: 0px !important;
+    line-height: 20px !important;
+    font-size: 14px !important;
+}
+
+body .sidebar .p-accordion .p-accordion-header {
+    background-color: #2c2e3d !important;
+    font-size: 14px !important;
+}
+
+.p-datatable .p-datatable-tbody tr td .p-button.p-button-icon-only {
+    background-color: #2c2e3d !important;
+    color: #FFF !important;
+    border-color: #2c2e3d !important;
+}
+
+body .navbar-top .logo-wrapper .logo img {
+    float: left;
+    width: 114px !important;
+    margin-top: 0px;
+    height: auto;
+}
+
+body .navbar-top {
+    overflow: hidden !important;
+}
+
+.p-paginator .p-paginator-pages .p-paginator-page:hover {
+    border: 0px solid #0d89ec !important;
+    color: #0d89ec !important;
+}
+
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+    border-color: #0d89ec !important;
+    color: #0d89ec !important;
+}
+
+body .navbar-top .logo-wrapper {
+    float: left;
+    margin-left: 0px;
+    top: 8px !important;
+    width: 190px;
+    padding-left: 20px;
+    position: relative;
+    padding-right: 0px;
+}
