@@ -3,8 +3,15 @@ body .wrapper {
   background-color: antiquewhite;
 }
 
+body .navbar-top .logo-wrapper {
+  float: left;
+  margin-left: 0px;
+  top: 15px;
+  width: 190px;
+  padding-left: 20px;
+  position: relative;
+  padding-right: 0px;
+    background-color: aquamarine;
 
-
-.logo-wrapper {
-  background-color: aquamarine;
 }
+
